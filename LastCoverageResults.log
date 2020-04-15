@@ -1,0 +1,21 @@
+[2020-04-15 15:22:59] [info] Start Program:
+Path:"D:\\C++\\lab6-7 NEW\\Debug\\lab6-7 NEW.exe"
+Arguments:
+Working directory: "D:\\C++\\lab6-7 NEW\\"
+Modules: Selected: D:\C++\lab6-7 NEW\Debug\lab6-7 NEW.exe Excluded: 
+Sources: Selected: D:\C++\lab6-7 NEW Excluded: UI.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\redta\AppData\Local\Temp\5ahyci02.1cc 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-15 15:22:59] [info] Module: D:\C++\lab6-7 NEW\Debug\lab6-7 NEW.exe is selected because it matches selected pattern: D:\C++\lab6-7 NEW\Debug\lab6-7 NEW.exe
+[2020-04-15 15:23:01] [info] ----------------------------------------------------
+[2020-04-15 15:23:01] [info] Coverage binary generated in file: C:\Users\redta\AppData\Local\Temp\5ahyci02.1cc
+[2020-04-15 15:23:01] [info] ----------------------------------------------------

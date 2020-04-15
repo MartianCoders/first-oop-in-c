@@ -1,0 +1,2 @@
+D:\C++\lab6-7 NEW\Debug\lab6-7 NEW.exe
+D:\C++\lab6-7 NEW\Debug\lab6-7 NEW.pdb

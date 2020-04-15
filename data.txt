@@ -1,0 +1,3 @@
+1 tort zahar 20
+2 pizza branza,rosii 40
+3 pizza branza 15
