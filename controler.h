@@ -21,6 +21,6 @@ public:
 	vector<Cookie> getAll(); // Retunrs storage pointer
 
 	/* Functionalities */
-	std::map<string, std::pair<unsigned int, double>> averPriceIngr(); // Returns map (Key:ingredient - pair<counter, sum_prices>) object with ingredients from storage (Out: ingredients)
+	std::map<string, std::pair<unsigned int, double>> averPriceIngr(); // Returns map (Key:ingredient - pair<counter, sum_prices>) object with ingredients from storage (Out: ingredients )
 
 };

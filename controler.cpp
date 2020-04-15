@@ -72,7 +72,6 @@ std::map<string, std::pair<unsigned int, double>> Controler::averPriceIngr() {
 			ing->second.second = ing->second.second + (*it).getPrice();
 		}
 
-
 	}
 	return ingredients;
 }
