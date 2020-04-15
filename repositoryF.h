@@ -66,11 +66,12 @@ public:
 			while (!f.eof())
 			{
 				f >> ID >> name >> ingr >> price;
-				if (name.size() > 0)
+				if (name.empty() == false)
 				{
 					Repository<T>::addCookie(Cookie(ID, name, ingr, price));
 				}
 			}
+		
 			f.close();
 		}
 	}
